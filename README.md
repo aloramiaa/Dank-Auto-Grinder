@@ -39,7 +39,6 @@ Unlock the full potential of your Dank Memer gameplay with our powerful automati
 
 ## ⚙️ Configuration
 
-- Customize your settings in the `SaveData` file.
 - Use the in-app settings menu to adjust powerup amounts and mouse positions to suit your needs.
 
 ---
@@ -48,7 +47,7 @@ Unlock the full potential of your Dank Memer gameplay with our powerful automati
 
 - Ensure you have the latest version of Python and required libraries.
 - Check the console for error messages.
-- For unresolved issues, please [open an issue](https://github.com/your-username/dank-memer-auto-farm/issues).
+- For unresolved issues, please [open an issue](https://github.com/aloramiaa/Dank-Auto-Grinde/issues).
 
 ---
 
@@ -74,14 +73,13 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📸 Screenshots
 
-![Script in Action](insert_screenshot_link_here)
+![Script in Action](https://i.imgur.com/MV7hyTb_d.webp?maxwidth=760&fidelity=grand)
 
 ---
 
 ## 📝 Changelog
 
 - **v1.0**: Initial release with core features.
-- **[Insert additional changelog entries here]**
 
 ---
 
